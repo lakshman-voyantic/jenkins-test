@@ -1,0 +1,50 @@
+{
+  "tsu-api-fw": {
+    "major": 2,
+    "minor": 7,
+    "patch": 1
+  },
+  "tsu-app-fw": {
+    "major": 2,
+    "minor": 6,
+    "patch": 2
+  },
+  "api-server": {
+    "major": 1,
+    "minor": 80,
+    "patch": 6
+  },
+  "operator-ui": {
+    "major": 1,
+    "minor": 51,
+    "patch": 6
+  },
+  "manual": {
+    "major": 1,
+    "minor": 29,
+    "patch": 0
+  },
+  "lane-controller-firmware": {
+    "major": 2,
+    "minor": 7,
+    "patch": 0
+  },
+  "Tagsurance 3": {
+    "major": 3,
+    "minor": 8,
+    "patch": 0,
+    "build": 3347
+  },
+  "Recipe Builder": {
+    "major": 3,
+    "minor": 2,
+    "patch": 3,
+    "build": 3347
+  },
+  "Post Install": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "build": 3347
+  }
+}
